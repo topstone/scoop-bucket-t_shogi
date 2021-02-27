@@ -1,0 +1,12 @@
+{
+    "version": "4.9.0",
+    "description": "Shogi GUI.",
+    "homepage": "http://shogidokoro.starfree.jp/",
+    "url": "http://shogidokoro.starfree.jp/download/Shogidokoro.zip",
+    "shortcuts": [
+        [
+            "Shogidokoro.exe",
+            "将棋所"
+        ]
+    ]
+}
