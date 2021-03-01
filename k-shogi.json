@@ -1,0 +1,23 @@
+{
+    "version": "3.9.0",
+    "description": "Shogi software.",
+    "homepage": "https://www.studiok-i.net/kshogi.html",
+    "url": "https://www.studiok-i.net/kshogi390.zip",
+    "extract_dir": "K-Shogi",
+    "architecture": [
+        "64bit": [
+            "shortcuts": [
+                [
+                    "K-Shogi64.exe",
+                    "K-Shogi",
+            ]
+        ],
+        "32bit": [
+            "shortcuts": [
+                [
+                    "K-Shogi.exe",
+                    "K-Shogi",
+            ]
+        ],
+    ]
+}
