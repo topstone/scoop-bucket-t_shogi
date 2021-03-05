@@ -2,7 +2,9 @@
     "version": "7.46",
     "description": "Kifu recorder.",
     "homepage": "http://kakinoki.o.oo7.jp/Kifuw7.htm",
-    "url": "http://kakinoki.o.oo7.jp/cgi-bin/lime/lime.cgi?736#/kifu746.zip",
+    "url": "http://kakinoki.o.oo7.jp/cgi-bin/lime/lime.cgi?736#/kifu746.cab",
+    "hash": "7c638464fe64e08aa537caa04f71a8277d7c00c81c24b168df5a6423ee63b8b4",
+    "bin": "KifuW.exe",
     "shortcuts": [
         [
             "KifuW.exe",

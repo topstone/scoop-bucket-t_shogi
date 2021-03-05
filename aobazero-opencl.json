@@ -3,4 +3,6 @@
     "description": "Shogi AI.",
     "homepage": "http://www.yss-aya.com/aobazero/",
     "url": "https://github.com/kobanium/aobazero/releases/download/v1.9/aobazero-1.9-w64-opencl.zip",
+    "hash": "3e6274990bdfe16ec8e40b1c1f7e28c186af31a4bd07e4c985076ff4a742b941",
+    "extract_dir": "aobazero-1.9-w64-opencl",
 }

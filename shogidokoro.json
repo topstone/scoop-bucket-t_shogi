@@ -3,9 +3,10 @@
     "description": "Shogi GUI.",
     "homepage": "http://shogidokoro.starfree.jp/",
     "url": "http://shogidokoro.starfree.jp/download/Shogidokoro.zip",
+    "hash": "04fe3c8f8db951236409e8c5612eed106fdb2b2eefa2037d4bf9bd11bd087115",
     "shortcuts": [
         [
-            "Shogidokoro.exe",
+            "Shogidokoro/Shogidokoro.exe",
             "将棋所"
         ]
     ]
