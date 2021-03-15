@@ -1,0 +1,8 @@
+{
+    "version": "6.0.0",
+    "description": "The World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.",
+    "homepage": "https://yaneuraou.yaneu.com/",
+    "url": "https://github.com/mizar/YaneuraOu/releases/download/v6.0.0/YaneuraOu-v6.0.0-windows.7z",
+    "hash": "c74f824dc989555ba7b62be58e854a2461d2623116f75073360c74b661a8f836",
+    "extract_dir": "windows"
+}
