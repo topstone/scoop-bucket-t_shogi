@@ -1,9 +1,10 @@
 {
-    "version": "7.46",
+    "version": "7.50",
     "description": "Kifu recorder.",
     "homepage": "http://kakinoki.o.oo7.jp/Kifuw7.htm",
-    "url": "http://kakinoki.o.oo7.jp/cgi-bin/lime/lime.cgi?736#/kifu746.cab",
-    "hash": "7c638464fe64e08aa537caa04f71a8277d7c00c81c24b168df5a6423ee63b8b4",
+    "url": "https://drive.google.com/uc?id=1h1BwJPlXwDNUX8gFvYhpqNeB6uA8cOcp#/Kifu_for_Windows_V750.zip",
+    "hash": "11d864f123da038db760f846a621729105bf1bc0d99a30e6cc9a394578aeee45",
+    "extract_dir": "Kifu for Windows V7",
     "bin": "KifuW.exe",
     "shortcuts": [
         [
