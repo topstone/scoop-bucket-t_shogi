@@ -10,7 +10,7 @@
             "shortcuts": [
                 [
                     "K-Shogi64.exe",
-                    "K-Shogi (64-bit)",
+                    "K-Shogi (64-bit)"
                 ]
             ]
         },
@@ -18,9 +18,9 @@
             "shortcuts": [
                 [
                     "K-Shogi.exe",
-                    "K-Shogi (32-bit)",
+                    "K-Shogi (32-bit)"
                 ]
             ]
-        },
+        }
     }
 }
