@@ -1,0 +1,8 @@
+{
+    "version": "1.1.0",
+    "description": "Shogi Engine.",
+    "homepage": "https://github.com/HiraokaTakuya/apery_rust",
+    "url": "https://github.com/HiraokaTakuya/apery_rust/releases/download/v1.1.0/apery_wcsc30.zip",
+    "hash": "a5faeea3be73052689b84872ac8a3a6137302c7f1de7926be7f2a15d8a2c534a",
+    "extract_dir": "apery_wcsc30"
+}
