@@ -85,12 +85,16 @@ scoop bucket add t_shogi https://github.com/topstone/scoop-bucket-t_shogi
 | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------- |
 | [将棋所](http://shogidokoro.starfree.jp/) | [Apery](https://github.com/HiraokaTakuya/apery_rust)         | `scoop install shogidokoro apery`     |
 | [ShogiGUI](http://shogigui.siganus.com/)  | [Apery](https://github.com/HiraokaTakuya/apery_rust)         | `scoop install shogigui apery`        |
+| [将棋所](http://shogidokoro.starfree.jp/) | [BURNING BRIDGES](https://twitter.com/floodgate_mania)      | `scoop install shogidokoro burning_bridges`     |
+| [ShogiGUI](http://shogigui.siganus.com/)  | [BURNING BRIDGES](https://twitter.com/floodgate_mania)      | `scoop install shogigui burning_bridges`        |
 | [将棋所](http://shogidokoro.starfree.jp/) | [技巧 (Gikou)](https://github.com/gikou-official/Gikou)      | `scoop install shogidokoro gikou`     |
 | [ShogiGUI](http://shogigui.siganus.com/)  | [技巧 (Gikou)](https://github.com/gikou-official/Gikou)      | `scoop install shogigui gikou`        |
 | [将棋所](http://shogidokoro.starfree.jp/) | [稲庭将棋 (Inaniwa shogi)](https://github.com/inaniwa3/inaniwa-shogi) | `scoop install shogidokoro inaniwa`   |
 | [ShogiGUI](http://shogigui.siganus.com/)  | [稲庭将棋 (Inaniwa shogi)](https://github.com/inaniwa3/inaniwa-shogi) | `scoop install shogigui inaniwa`      |
 | [将棋所](http://shogidokoro.starfree.jp/) | [水匠 (Suisho)](https://twitter.com/tayayan_ts)              | `scoop install shogidokoro suisho`    |
 | [ShogiGUI](http://shogigui.siganus.com/)  | [水匠 (Suisho)](https://twitter.com/tayayan_ts)              | `scoop install shogigui suisho`       |
+| [将棋所](http://shogidokoro.starfree.jp/) | [騨奎紫 (Takeshi)](https://twitter.com/floodgate_mania) (振り飛車党)             | `scoop install shogidokoro takeshi`    |
+| [ShogiGUI](http://shogigui.siganus.com/)  | [騨奎紫 (Takeshi)](https://twitter.com/floodgate_mania) (振り飛車党)              | `scoop install shogigui takeshi`       |
 | [将棋所](http://shogidokoro.starfree.jp/) | [やねうら王 (Yaneuraou)](https://yaneuraou.yaneu.com/)       | `scoop install shogidokoro yaneuraou` |
 | [ShogiGUI](http://shogigui.siganus.com/)  | [やねうら王 (Yaneuraou)](https://yaneuraou.yaneu.com/)       | `scoop install shogigui yaneuraou`    |
 
