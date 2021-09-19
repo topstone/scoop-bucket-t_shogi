@@ -1,5 +1,5 @@
 {
-    "version": "20210228",
+    "version": "20210919",
     "description": "AobaZero's weight files.",
     "homepage": "http://www.yss-aya.com/aobazero/",
     "url": [
@@ -103,7 +103,7 @@
         "https://drive.google.com/uc?id=16mKYbWxAARGNlVRDRDjWpGm9aS4y5NkJ#/w000000000098.txt.xz",
         "https://drive.google.com/uc?id=1I2Wp0geJakGUQdHoeFOMTo7Z7ezxFCGx#/w000000000099.txt.xz",
         "https://drive.google.com/uc?id=1qr0sM3-Rp1tK1P3HPd8QQAIRT07mpvm3#/w000000000100.txt.xz",
-        "https://drive.google.com/uc?id=1cF4yNQ-R2YaMUqytjxe0S9GYpA480YVE#/aobazero_batch_1_100.7z",
+        "https://drive.google.com/uc?id=1ylgwtnAcOu43HeVbM9Bz8qOT4ffjRLVt#/aobazero_batch_1_100.7z",
     ],
     "hash": [
         "bf5a765ba279115dabdaf8ff903f4de1bd1be799f81c726207a3aee1ae29e1bf",
@@ -206,6 +206,6 @@
         "7de953159c4294884304ca682a7f7268216a8183158fb09f10e3b0021399f1eb",
         "256906fb48941040d9b31daf2cea2e24b7fdaeeacc0d590de647359c4dab7b5b",
         "41f89f45cf1ab4b0a6c398ef554b9d6998a7489ec762f7d40627c8e796afca52",
-        "3686f8ffdbc0878c7c8d8d5035eef01cd76ff1ebc29703f5f02c167a8d3bf832",
-    ],
+        "ba75011fda3e0977d597fe436783931f34add1b6519a31a1ea65acc811d1fac4",
+    ]
 }
