@@ -5,7 +5,6 @@
     "url": "https://drive.google.com/uc?id=1h1BwJPlXwDNUX8gFvYhpqNeB6uA8cOcp#/Kifu_for_Windows_V750.zip",
     "hash": "11d864f123da038db760f846a621729105bf1bc0d99a30e6cc9a394578aeee45",
     "extract_dir": "Kifu for Windows V7",
-    "bin": "KifuW.exe",
     "shortcuts": [
         [
             "KifuW.exe",
