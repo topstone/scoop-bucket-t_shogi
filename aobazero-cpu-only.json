@@ -1,8 +1,8 @@
 {
-    "version": "1.9",
+    "version": "2.0",
     "description": "Shogi AI.",
     "homepage": "http://www.yss-aya.com/aobazero/",
-    "url": "https://github.com/kobanium/aobazero/releases/download/v1.9/aobazero-1.9-w64-cpu-only.zip",
-    "hash": "b28edc646e642b34874245360f635dadc1528e884e0b35416a303466895da7a8",
-    "extract_dir": "aobazero-1.9-w64-cpu-only",
+    "url": "https://github.com/kobanium/aobazero/releases/download/v2.0/aobazero-2.0-w64-cpu-only.zip",
+    "hash": "c9151913a1906f8fc02bdf51c68669c15486edd5f5bd070b9adf44587730256e",
+    "extract_dir": "aobazero-2.0-w64-cpu-only"
 }
