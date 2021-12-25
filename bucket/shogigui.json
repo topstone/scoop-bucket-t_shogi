@@ -4,7 +4,7 @@
     "homepage": "http://shogigui.siganus.com/",
     "url": "http://shogigui.siganus.com/shogigui/ShogiGUIv0.0.7.26.zip",
     "hash": "15b0a6ec4e2bc9e431806b23577998ffb1ad937c0a808ba1bbb7f7147c1aa5e6",
-    "extract_dir": "ShogiGUIv0.0.7.26",
+    "extract_dir": "ShogiGUI",
     "shortcuts": [
         [
             "ShogiGUI.exe",
