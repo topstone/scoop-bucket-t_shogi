@@ -1,8 +1,8 @@
 {
-    "version": "2.0",
+    "version": "18",
     "description": "Shogi AI.",
     "homepage": "http://www.yss-aya.com/aobazero/",
-    "url": "https://github.com/kobanium/aobazero/releases/download/v2.0/aobazero-2.0-w64-opencl.zip",
-    "hash": "1c629984e1dfdf42b801cc76ce424e5fca6e418151a6da0793018a5c2d22ac9e",
-    "extract_dir": "aobazero-2.0-w64-opencl"
+    "url": "https://github.com/kobanium/aobazero/releases/download/v18/aobazero-18-w64-opencl.zip",
+    "hash": "9ad7943124bfa7b5de0746d0b665fa9376a439e9787742e5ccf207db9f4598ab",
+    "extract_dir": "aobazero-18-w64-opencl"
 }
