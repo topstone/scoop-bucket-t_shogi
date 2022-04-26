@@ -1,9 +1,9 @@
 {
-    "version": "5.0.0",
+    "version": "5.0.1",
     "description": "Shogi GUI.",
     "homepage": "http://shogidokoro.starfree.jp/",
     "url": "http://shogidokoro.starfree.jp/download/Shogidokoro.zip",
-    "hash": "73e9db2eec05a673f05de825f396f7c949d651921357eeb0d57162920130d8fc",
+    "hash": "9bab55c77e1312b6f796b8933a858e345db0ea3790e79217134a3d3b81d24d77",
     "extract_dir": "Shogidokoro",
     "shortcuts": [
         [
