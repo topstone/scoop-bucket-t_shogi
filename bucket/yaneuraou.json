@@ -1,14 +1,14 @@
 {
-    "version": "7.0.0",
+    "version": "7.6.2",
     "description": "The World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.",
     "homepage": "https://yaneuraou.yaneu.com/",
     "url": [
-        "https://github.com/mizar/YaneuraOu/releases/download/v7.0.0/Suisho5-YaneuraOu-v7.0.0-windows.7z",
-        "https://github.com/mizar/YaneuraOu/releases/download/v7.0.0/YaneuraOu-v7.0.0-windows.7z"
+        "https://github.com/mizar/YaneuraOu/releases/download/v7.6.2/Suisho5-YaneuraOu-v7.6.2-windows.7z",
+        "https://github.com/mizar/YaneuraOu/releases/download/v7.6.2/YaneuraOu-v7.6.2-windows.7z"
     ],
     "hash": [
-        "fdac3cde633d4633e4f5f738629e305b905080e909b9130eb7dc54e4d7df0eb2",
-        "fe0f8516d394913b1e270c01e418e181a4a8735e4dfa0cb9dcb648837d5733d9"
+        "d8538ad525c86f8a7b4877f74a9625b678ee5b2075a30b7a5aba8de44040f11b",
+        "2f57afa70a7b462be3ad2e4316bcfbd933ee0604b21c56c54a4ac26084ad0721"
     ],
     "notes": [
         "Yaneuraou with Suisho will be installed in apps/yaneuraou/current/",
