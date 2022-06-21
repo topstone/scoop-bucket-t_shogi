@@ -6,7 +6,7 @@
         "64bit": {
             "url": "https://github.com/kobanium/aobazero/releases/download/v34/aobazero-34-w64-cpu.zip",
             "hash": "5791f9e7d45e9f89004a53d5b0cf9ee46eded2f1eeb22a855fe4d159dbbaf166",
-            "extract_dir": "aobazero-34-w64-cpu-only"
+            "extract_dir": "aobazero-34-w64-cpu"
         }
     }
 }
