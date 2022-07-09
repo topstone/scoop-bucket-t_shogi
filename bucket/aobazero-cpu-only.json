@@ -1,12 +1,12 @@
 {
-    "version": "34",
+    "version": "36",
     "description": "Shogi AI (with weight file w3881 and higher).",
     "homepage": "http://www.yss-aya.com/aobazero/",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kobanium/aobazero/releases/download/v34/aobazero-34-w64-cpu.zip",
-            "hash": "5791f9e7d45e9f89004a53d5b0cf9ee46eded2f1eeb22a855fe4d159dbbaf166",
-            "extract_dir": "aobazero-34-w64-cpu"
+            "url": "https://github.com/kobanium/aobazero/releases/download/v36/aobazero-36-w64-cpu.zip",
+            "hash": "aeedc3a1e28ab199f4b0b3c1961a1669eb4a21e11a628be8e345a25cb7494132",
+            "extract_dir": "aobazero-36-w64-cpu"
         }
     }
 }
