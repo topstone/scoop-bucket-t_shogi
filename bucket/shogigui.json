@@ -1,9 +1,9 @@
 {
-    "version": "0.0.7.27",
+    "version": "0.0.7.29",
     "description": "Shogi GUI.",
     "homepage": "http://shogigui.siganus.com/",
-    "url": "http://shogigui.siganus.com/shogigui/ShogiGUIv0.0.7.27.zip",
-    "hash": "2c05e08569dc146692b033a25e80b373cc75bca138781dd78bfa885eea34ff10",
+    "url": "http://shogigui.siganus.com/shogigui/ShogiGUIv0.0.7.29.zip",
+    "hash": "2911436a847386c0963b017bb5c91eb10452cbea44040fb325b850a29f01c6bd",
     "extract_dir": "ShogiGUI",
     "shortcuts": [
         [
