@@ -1,9 +1,9 @@
 {
-    "version": "3.4.1.0",
+    "version": "3.4.2.0",
     "description": "Shogi GUI.",
     "homepage": "http://garnet-alice.net/programs/whalewatcher/index.html",
-    "url": "http://garnet-alice.net/programs/whalewatcher/download/WhaleWatcher_3_4_1_0.zip",
-    "hash": "00154fd1fb7580f2d80440106edf208549d5c475d54cb2d6fe9db81cc579d89d",
+    "url": "http://garnet-alice.net/programs/whalewatcher/download/WhaleWatcher_3_4_2_0.zip",
+    "hash": "3f2980ecdccdc88754285d3b834b59f825bbab681a24571840e40cf012fb3d67",
     "shortcuts": [
         [
             "WhaleWatcher.exe",
