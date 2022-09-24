@@ -17,6 +17,6 @@
         "New-Item -Value \"$dir\\..\\..\\yaneuraou\\current\\origin\\NNUE\\YaneuraOu_NNUE-normal-clang++-ssse3.exe\" -Path \"$dir\\YaneuraOu_NNUE-normal-clang++-ssse3.exe\" -ItemType HardLink",
         "New-Item -Value \"$dir\\..\\..\\yaneuraou\\current\\origin\\NNUE\\YaneuraOu_NNUE-normal-clang++-zen1.exe\" -Path \"$dir\\YaneuraOu_NNUE-normal-clang++-zen1.exe\" -ItemType HardLink",
         "New-Item -Value \"$dir\\..\\..\\yaneuraou\\current\\origin\\NNUE\\YaneuraOu_NNUE-normal-clang++-zen2.exe\" -Path \"$dir\\YaneuraOu_NNUE-normal-clang++-zen2.exe\" -ItemType HardLink",
-        "New-Item -Value \"$dir\\..\\..\\yaneuraou\\current\\origin\\NNUE\\YaneuraOu_NNUE-normal-clang++-zen3.exe\" -Path \"$dir\\YaneuraOu_NNUE-normal-clang++-zen3.exe\" -ItemType HardLink",
+        "New-Item -Value \"$dir\\..\\..\\yaneuraou\\current\\origin\\NNUE\\YaneuraOu_NNUE-normal-clang++-zen3.exe\" -Path \"$dir\\YaneuraOu_NNUE-normal-clang++-zen3.exe\" -ItemType HardLink"
     ]
 }
