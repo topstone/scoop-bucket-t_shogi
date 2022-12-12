@@ -1,11 +1,11 @@
 {
-    "version": "2022-05-06",
+    "version": "2022-12-04",
     "description": "Shogi engine.",
     "homepage": "https://github.com/nodchip/tanuki-",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nodchip/tanuki-/releases/download/tanuki-wcsc32/tanuki-wcsc32-2022-05-06.7z",
-            "hash": "6b5d7d3ba0fcf03c07f5511cc259c1f6cb3e241b0dd6b19b1eb9ceed7d6abdfc"
+            "url": "https://github.com/nodchip/tanuki-/releases/download/tanuki-dr3/tanuki-dr3-2022-12-04.7z",
+            "hash": "ebf448a805b7321b6d79bc7175b85175fe225f87dab291efe299b87bd35167ed"
         }
     }
 }
