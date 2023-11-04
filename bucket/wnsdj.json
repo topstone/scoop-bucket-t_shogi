@@ -10,5 +10,9 @@
             "winsdj/bin/WinSDJ.exe",
             "将棋道場 for Windows32"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://www.vector.co.jp/soft/dl/win95/game/se076401.html",
+        "regex": "<span class=\"version\">([\\d.]+)</span>"
+    }
 }
