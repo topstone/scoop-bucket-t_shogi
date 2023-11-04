@@ -10,5 +10,9 @@
             "Shogidokoro.exe",
             "将棋所"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "http://shogidokoro.starfree.jp/download.html",
+        "regex": "<p>将棋所([\\d.]+)を<a href=\"download/Shogidokoro.zip\">ダウンロード</a></p>"
+    }
 }
