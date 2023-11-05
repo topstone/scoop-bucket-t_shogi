@@ -13,6 +13,6 @@
     ],
     "checkver": {
         "url": "https://www.vector.co.jp/soft/dl/win95/game/se076401.html",
-        "regex": "<span class=\"version\">([\\d.]+)</span>"
+        "regex": "<span class=\"version\">([\\d\\.]+)</span>"
     }
 }

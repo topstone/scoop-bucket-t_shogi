@@ -16,6 +16,6 @@
     },
     "checkver": {
         "url": "http://garnet-alice.net/programs/whalewatcher/download/index.html",
-        "regex": "<h1>更新履歴</h1><h2>Version ([\\d.]+) の変更点</h2>"
+        "regex": "<h1>更新履歴</h1><h2>Version ([\\d\\.]+) の変更点</h2>"
     }
 }

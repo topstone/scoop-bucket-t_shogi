@@ -25,6 +25,6 @@
     },
     "checkver": {
         "url": "https://www.studiok-i.net/kshogi.html",
-        "regex": "Ver([\\d.]+) \\([\\d/]+"
+        "regex": "Ver([\\d\\.]+) \\([\\d/]+"
     }
 }

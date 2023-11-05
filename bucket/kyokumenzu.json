@@ -12,6 +12,6 @@
     ],
     "checkver": {
         "url": "http://home.att.ne.jp/lemon/ogi/SituationFigure.html",
-        "regex": " ver ([\\d.]+)</a> [\\d\\-]+"
+        "regex": " ver ([\\d\\.]+)</a> [\\d\\-]+"
     }
 }

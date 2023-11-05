@@ -14,6 +14,6 @@
     ],
     "checkver": {
         "url": "http://shogigui.siganus.com/download.html",
-        "regex": "<td style=\"width: 232px\">[\\d/]+ ver ([\\d.]+)</td>"
+        "regex": "<td style=\"width: 232px\">[\\d/]+ ver ([\\d\\.]+)</td>"
     }
 }
