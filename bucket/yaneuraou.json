@@ -1,0 +1,31 @@
+{
+    "version": "9.00",
+    "description": "The World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine.",
+    "homepage": "https://yaneuraou.yaneu.com/",
+    "license": "GPL-3.0-only",
+    "notes": "YaneuraOu contains only the search engine. Please manually add an evaluation function (eval file) yourself.",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/yaneurao/YaneuraOu/releases/download/V9.00/yaneuraou-V900-git-win64-all.7z",
+            "hash": "6517997dd05ba049a2244a828216967a0ad351d975ec52a0f358e2883197dec6"
+        },
+        "32bit": {
+            "url": "https://github.com/yaneurao/YaneuraOu/releases/download/V9.00/yaneuraou-V900-git-win32-all.7z",
+            "hash": "f0c36f1ad6c8985a3869625ff722a5f0d508e4b844642c21f2dabfc0d0855269"
+        }
+    },
+    "checkver": {
+        "url": "https://github.com/yaneurao/YaneuraOu/releases",
+        "regex": "data-item-id=\"release-V([\\d.]+)\"[^>]*>\\s*<a[^>]*aria-label=\"やねうら王\\s*V[\\d.]+\\s*GitHub版\""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/yaneurao/YaneuraOu/releases/download/V$version/yaneuraou-V$cleanVersion-git-win64-all.7z"
+            },
+            "32bit": {
+                "url": "https://github.com/yaneurao/YaneuraOu/releases/download/V$version/yaneuraou-V$cleanVersion-git-win32-all.7z"
+            }
+        }
+    }
+}
